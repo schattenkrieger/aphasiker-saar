@@ -117,34 +117,34 @@ canonifyURLs = true
   weight = 1
 
 [[menu.main]]
+  name = "Plötzlich Sprachlos"
+  url = "/ploetzlich-sprachlos/"
+  identifier = "fa fa-youtube-play"
+  weight = 2
+  
+[[menu.main]]
   name = "Was ist Aphasie?"
   url = "/was-ist-aphasie/"
   identifier = "fa fa-id-card-o"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Berichte"
   url = "/categories/berichte/"
   identifier = "fa fa-newspaper-o"
-  weight = 3
+  weight = 4
   
 [[menu.main]]
   name = "Der Landesverband"
   url = "/der-landesverband"
-  parent = "fa fa-id-card-o"
-  weight = 100
+  identifier = "fa fa-id-card-o"
+  weight = 5
 
 [[menu.main]]
   name = "Unsere Gruppen"
   url = "/categories/gruppen/"
   identifier = "fa fa-list"
-  weight = 4
-
-[[menu.main]]
-  name = "Plötzlich Sprachlos"
-  url = "/ploetzlich-sprachlos/"
-  identifier = "fa fa-youtube-play"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
