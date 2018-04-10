@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "de-de"
 title = "Landesverband Aphasie und Schlaganfall Saarland e.V."
-theme = "hugo-theme-casper"
+theme = "hugo-futur-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 #disqusShortname = "shortname"
