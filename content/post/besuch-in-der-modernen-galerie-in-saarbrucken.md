@@ -6,7 +6,7 @@ description = ""
 draft = false
 slug = "besuch-in-der-modernen-galerie-in-saarbrucken"
 # tags = ["Berichte"]
-title = "Besuch in der \"Alten Galerie\" in Saarbrücken"
+title = "Besuch in der \"Modernen Galerie\" in Saarbrücken"
 
 +++
 
