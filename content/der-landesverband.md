@@ -4,7 +4,7 @@ date: 2018-04-02T22:10:18+02:00
 draft: true
 ---
 
-Landesverband Aphasie und Schlaganfall
+landesverband Aphasie und Schlaganfall
 Saarland e.V.
 
 Der saarländische Landesverband (LV) wurde im Juni 1997 in Saarbrücken geründet. Der LV ist als eingetragener Verein beim Amtsgericht Saarbrücken registriert und vom Finanzamt als gemeinnütziger Verein anerkannt. Das bedeutet, dass der Landesverband steuerbegünstigte Spenden ausstellen darf.  
@@ -24,14 +24,16 @@ Der LV verfolgt folgende Ziele:
 
 Die Adressen des Landesverbandes, der Gruppen und der Geschäftsstelle:
 
-* **Vorsitzende:**    
+* **Vorsitzende:**
+
 Brigitte Baronetzky
 <i class="fa fa-map-marker" aria-hidden="true"></i> John-F-Kennedy-Straße 76, 66482 Zweibrücken 
 <i class="fa fa-phone" aria-hidden="true"></i> 06332/43982
 <i class="fa fa-envelope-o" aria-hidden="true"></i> <b.baronetzky@aphasiker-saar.de>
 
 
-* **Stellvertreter:**  
+* **Stellvertreter:**
+
 Arndt Bachelier
 <i class="fa fa-map-marker" aria-hidden="true"></i> Dieffelter Str. 8, 66125 Saarbrücken
   <i class="fa fa-phone" aria-hidden="true"></i> 06897/71177  
@@ -40,24 +42,28 @@ Arndt Bachelier
 
 
 
-* **Schatzmeisterin:**  
-Ursula Quack
-**<i class="fa fa-map-marker" aria-hidden="true"></i>** Mühlenstr.17,66111 Saarbrücken  
-<i class="fa fa-phone" aria-hidden="true"></i> 0681/4016400
-<i class="fa fa-envelope-o" aria-hidden="true"></i> <u.quack@aphasiker-saar.de>
+* **Schatzmeisterin:**
 
-* **Schriftführerin:**  
+Ursula Quack
+**<i class="fa fa-map-marker" aria-hidden="true"></i>** Mühlenstr.17,66111 Saarbrücken</br>
+<i class="fa fa-phone" aria-hidden="true"></i> 0681/4016400</br>
+<i class="fa fa-envelope-o" aria-hidden="true"></i> <u.quack@aphasiker-saar.de></br>
+
+* **Schriftführerin:**
+
 Ursula Bachelier
 <i class="fa fa-map-marker" aria-hidden="true"></i> Dieffelter Str. 8, 66125 Saarbrücken
 <i class="fa fa-phone" aria-hidden="true"></i> 06897/71177 
 <i class="fa fa-envelope-o" aria-hidden="true"></i> <u.bachelier@aphasiker-saar.de> 
 
-* **Beisitzer:**  
+* **Beisitzer:**
+
 Otto Gassert
 <i class="fa fa-map-marker" aria-hidden="true"></i> Grebelsweg 19, 66271 Kleinblittersdorf/Hanweiler
 <i class="fa fa-phone" aria-hidden="true"></i> 06805/5695
 
-* **Geschäftsstelle:**  
+* **Geschäftsstelle:**
+
 Ingo Kroker
 <i class="fa fa-map-marker" aria-hidden="true"></i> Alter Mühlenweg 37, 66132 Saarbrücken
 <i class="fa fa-phone" aria-hidden="true"></i> 0681/897242  
