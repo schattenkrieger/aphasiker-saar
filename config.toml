@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "netlify.aphasiker-saar.de"
 title = "Landesverband Aphasie und Schlaganfall Saarland e.V."
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
