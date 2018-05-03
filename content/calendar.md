@@ -7,6 +7,6 @@ featuredpath: img
 type: post
 ---
 Datum|Termin
------|----
+-----|------
 01.04.18|irgendwas
 08.08.18|was anderes
