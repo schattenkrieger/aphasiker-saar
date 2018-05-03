@@ -3,7 +3,6 @@ title: "Der Landesverband"
 date: 2014-04-02
 featured: landesverband.jpg
 featuredpath: img
-draft: true
 type: post
 ---
 
