@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Jahresausflüge"
+
+>
+  <image imageURL="images/Jahresausflug (1).jpg"
+	thumbURL="thumbs/Jahresausflug (1).jpg"
+	linkURL="images/Jahresausflug (1).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Jahresasuflüge\Jahresausflug (1).jpg">
+    <title><![CDATA[Jahresausflug (1)]]></title>
+    <caption><![CDATA[Jahresausflug Villa Borg 2009]]></caption>
+  </image>
+  <image imageURL="images/Jahresausflug (2).jpg"
+	thumbURL="thumbs/Jahresausflug (2).jpg"
+	linkURL="images/Jahresausflug (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Jahresasuflüge\Jahresausflug (2).jpg">
+    <title><![CDATA[Jahresausflug (2)]]></title>
+    <caption><![CDATA[Jahresausflug DFG  2011]]></caption>
+  </image>
+  <image imageURL="images/Jahresausflug (3).jpg"
+	thumbURL="thumbs/Jahresausflug (3).jpg"
+	linkURL="images/Jahresausflug (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Jahresasuflüge\Jahresausflug (3).jpg">
+    <title><![CDATA[Jahresausflug (3)]]></title>
+    <caption><![CDATA[Jahresausflug Losheim 2012]]></caption>
+  </image>
+  <image imageURL="images/Jahresausflug (4).jpg"
+	thumbURL="thumbs/Jahresausflug (4).jpg"
+	linkURL="images/Jahresausflug (4).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Jahresasuflüge\Jahresausflug (4).jpg">
+    <title><![CDATA[Jahresausflug (4)]]></title>
+    <caption><![CDATA[Jahresausflug Saargemünd 2013]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery>
+  <image imageURL="images/kroker_080830_3192.jpg"
+	thumbURL="thumbs/kroker_080830_3192.jpg"
+	linkURL="images/kroker_080830_3192.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Patrick\Desktop\kroker_080830_3192.jpg"
+
+>
+    <title><![CDATA[kroker_080830_3192]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/kroker_110407_9145.jpg"
+	thumbURL="thumbs/kroker_110407_9145.jpg"
+	linkURL="images/kroker_110407_9145.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Patrick\Desktop\kroker_110407_9145.jpg">
+    <title><![CDATA[kroker_110407_9145]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Star-Wars-The-Clone-Wars-4.jpg"
+	thumbURL="thumbs/Star-Wars-The-Clone-Wars-4.jpg"
+	linkURL="images/Star-Wars-The-Clone-Wars-4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Patrick\Desktop\Star-Wars-The-Clone-Wars-4.jpg">
+    <title><![CDATA[Star-Wars-The-Clone-Wars-4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

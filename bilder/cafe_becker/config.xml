@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Mittwochs im Cafe Becker"
+
+>
+  <image imageURL="images/Kroker_000501_5250.jpg"
+	thumbURL="thumbs/Kroker_000501_5250.jpg"
+	linkURL="images/Kroker_000501_5250.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Cafe Becker\Kroker_000501_5250.jpg">
+    <title><![CDATA[Cafe Becker 2006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kroker_000501_5219.jpg"
+	thumbURL="thumbs/Kroker_000501_5219.jpg"
+	linkURL="images/Kroker_000501_5219.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Cafe Becker\Kroker_000501_5219.jpg">
+    <title><![CDATA[Cafe Becker 2006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kroker_000501_5230.jpg"
+	thumbURL="thumbs/Kroker_000501_5230.jpg"
+	linkURL="images/Kroker_000501_5230.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Cafe Becker\Kroker_000501_5230.jpg">
+    <title><![CDATA[Cafe Becker 2006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kroker_000501_5241.jpg"
+	thumbURL="thumbs/Kroker_000501_5241.jpg"
+	linkURL="images/Kroker_000501_5241.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Cafe Becker\Kroker_000501_5241.jpg">
+    <title><![CDATA[Cafe Becker 2006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

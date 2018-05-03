@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Aktivitäten "
+
+>
+  <image imageURL="images/Kroker_20080126_0017-10.jpg"
+	thumbURL="thumbs/Kroker_20080126_0017-10.jpg"
+	linkURL="images/Kroker_20080126_0017-10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Fotos 4\Kroker_20080126_0017-10.jpg">
+    <title><![CDATA[Kegeln 2008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kroker_080605_2536.jpg"
+	thumbURL="thumbs/Kroker_080605_2536.jpg"
+	linkURL="images/Kroker_080605_2536.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Fotos 4\Kroker_080605_2536.jpg">
+    <title><![CDATA[Tanzen in der Gruppe 2008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kroker_110309_9012.jpg"
+	thumbURL="thumbs/Kroker_110309_9012.jpg"
+	linkURL="images/Kroker_110309_9012.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Fotos 4\Kroker_110309_9012.jpg">
+    <title><![CDATA[PC-Kurs 2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kroker_110618_9151.jpg"
+	thumbURL="thumbs/Kroker_110618_9151.jpg"
+	linkURL="images/Kroker_110618_9151.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Fotos 4\Kroker_110618_9151.jpg">
+    <title><![CDATA[30-Jahr Feier 2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kroker_131010_15256.jpg"
+	thumbURL="thumbs/Kroker_131010_15256.jpg"
+	linkURL="images/Kroker_131010_15256.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Fotos 4\Kroker_131010_15256.jpg">
+    <title><![CDATA[Vorstand 2013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kroker_101007_6261.jpg"
+	thumbURL="thumbs/Kroker_101007_6261.jpg"
+	linkURL="images/Kroker_101007_6261.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Fotos 4\Kroker_101007_6261.jpg">
+    <title><![CDATA[Folster Höhe 2010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

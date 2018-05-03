@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Gemeinsames Essen"
+	backgroundColor="rgba(255,255,255,1)"
+	textColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(255,255,255,.5)"
+
+>
+  <image imageURL="images/Dez_2015_3.jpg"
+	thumbURL="thumbs/Dez_2015_3.jpg"
+	linkURL="images/Dez_2015_3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Treffen\Dez_2015_3.jpg">
+    <title><![CDATA[Dez_2015_3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Dez_2015_4.jpg"
+	thumbURL="thumbs/Dez_2015_4.jpg"
+	linkURL="images/Dez_2015_4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Treffen\Dez_2015_4.jpg">
+    <title><![CDATA[Dez_2015_4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Dez_2015_1.jpg"
+	thumbURL="thumbs/Dez_2015_1.jpg"
+	linkURL="images/Dez_2015_1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Treffen\Dez_2015_1.jpg">
+    <title><![CDATA[Dez_2015_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Dez_2015_2.jpg"
+	thumbURL="thumbs/Dez_2015_2.jpg"
+	linkURL="images/Dez_2015_2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ingo\Desktop\Treffen\Dez_2015_2.jpg">
+    <title><![CDATA[Dez_2015_2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
