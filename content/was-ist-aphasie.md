@@ -1,7 +1,6 @@
 ---
 title: "Was ist Aphasie"
 date: 2018-04-02T21:08:48+02:00
-draft: true
 ---
 ### Was bedeutet APHASIE?
 ### Was ist ein APHASIKER?
