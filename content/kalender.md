@@ -7,4 +7,4 @@ type: post
 ---
 |Datum|Uhrzeit|Termin|
 |---|---|:---|
-|08.06.2018|18:00 |Jomi besucht die Saarbrücker Gruppe|
+|07.06.2018|18:00 |Jomi besucht die Saarbrücker Gruppe|
