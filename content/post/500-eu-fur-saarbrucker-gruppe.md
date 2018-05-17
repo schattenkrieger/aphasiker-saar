@@ -10,8 +10,7 @@ title = "500 € für Saarbrücker Gruppe"
 
 +++
 
-![](/content/images/2015/03/2013-Scheck-bergabe--Small-.JPG)
-
+{{< img-post path="/img" file="scheck.jpg" alt="Scheckübergabe" type="center" >}}
 Die Firma Orthopädietechnik Doppler aus Saarbrücken-Dudweiler hat eine Vortragsreihe
 unter dem Motto "Mobilität nach Schlaganfall" an der Saarbrücker Sportschule gestartet. Alle Referenten
 wie Prof. H.-H. Grotemayer/Saarbrücken, Dr. M. Wagner von der "Deutschen Stiftung Schlaganfall"/
