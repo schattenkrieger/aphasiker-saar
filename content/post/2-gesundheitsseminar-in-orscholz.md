@@ -1,5 +1,5 @@
 +++
-author = "Ingo Kroker"
+author = "Brigitte Baronetzky"
 categories = ["Berichte"]
 date = 2017-10-21T20:25:05Z
 description = ""

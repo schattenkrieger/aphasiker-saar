@@ -1,5 +1,5 @@
 +++
-author = "Ingo Kroker"
+author = "Brigitte Baronetzky"
 categories = ["Berichte"]
 date = 2017-02-07T15:04:25Z
 description = ""
@@ -24,6 +24,3 @@ und dem "Landesverbandes Aphasie Saarland e.V.". Für die Unterstützung der Spo
 
 Auf dem Foto sind v.l.: Fr. Nagel, H. Steinbrecher, Fr. Binger, H. Baronetzky, H. Müller, Fr. Baronetzky, Fr. Resch, H. Sperling, Fr. Sperling
 Fotografin: Frau Rettig-Emmrich
-
-Brigitte Baronetzky
-
