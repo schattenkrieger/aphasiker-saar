@@ -1,6 +1,7 @@
 baseurl = "/"
+languageCode = "de-de"
 title = "Landesverband Aphasie und Schlaganfall Saarland e.V."
-theme = "hugo-future-imperfect"
+  theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 #disqusShortname = "shortname"
@@ -17,6 +18,7 @@ canonifyURLs = true
   navbarTitle          = "Aphasiker Saar e.V."
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
+
 # Optional Params
   # Sets navbarTitle to match the section of the website
   dynamicTitles        = true
