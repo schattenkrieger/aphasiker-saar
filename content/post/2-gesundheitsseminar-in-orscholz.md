@@ -23,8 +23,6 @@ Das obligatorische Gruppenfoto als Erinnerung an erlebnisreiche und erholsame Ta
 
 Für die finanzielle Unterstützung des Gesundheitsseminars danken wir der Krankenkasse (Knappschaft) ganz herzlich.
 
-Brigitte Baronetzky
-
 Es ist dem großen Engagement von Frau Baronetzky zu verdanken, dass beide Seminare stattfinden konnten und so großen Anklang fanden.
 Ingo Kroker 
 
