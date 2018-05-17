@@ -7,7 +7,8 @@ draft = false
 slug = "2-gesundheitsseminar-in-orscholz"
 tags = ["Berichte"]
 title = "2. Gesundheitsseminar in Orscholz"
-
+featured = "orscholz.jpg"
+featuredpath = "img"
 +++
 
 Der "Landesverband Ahpasie Saarland e.V"
