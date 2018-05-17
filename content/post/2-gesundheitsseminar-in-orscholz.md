@@ -25,7 +25,7 @@ Für die finanzielle Unterstützung des Gesundheitsseminars danken wir der Krank
 
 Brigitte Baronetzky
 
-![Teilnehmer 2017 in Orscholz](/static/img/orscholz.jpg)
+![Teilnehmer 2017 in Orscholz](/img/orscholz.jpg)
 Es ist dem großen Engagement von Frau Baronetzky zu verdanken, dass beide Seminare stattfinden konnten und so großen Anklang fanden.
 Ingo Kroker 
 
